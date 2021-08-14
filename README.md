@@ -6,5 +6,5 @@
     documentation (https://github.com/micasense/imageprocessing).
     • For supervised image translation please follow pix2pix model with initial modifications 
     mentioned in the rgb2nir paper. 
-    • The dataset folder contains samples of each crop used in our study. The entire dataset 
-    is available upon request.
+    • The dataset folder contains samples of each crop used in our study. The entire dataset is 
+    available upon request.
