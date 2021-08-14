@@ -1,8 +1,7 @@
 # rgb2nir
 
-    • This repository contains a Python 3.4 or higher implementation for the 
-    multispectral image registration and using the aligned images in a 
-    supervised image translation system. 
+    • This repository contains a Python 3.4 or higher implementation for the multispectral image 
+    registration and using the aligned images in a supervised image translation system. 
     • For multispectral image calibration please follow the instruction in 
     the Micasense Rededge tutorial 
     (https://github.com/micasense/imageprocessing).
