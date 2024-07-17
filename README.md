@@ -7,4 +7,4 @@
     • For supervised image translation please follow pix2pix model with initial modifications 
     mentioned in the rgb2nir paper. 
     • The dataset folder contains samples of each crop used in our study. TrainA represents RGB images
-    and trainB contains NIR couterparts. The entire dataset is available upon request.
+    and trainB contains NIR couterparts. The entire dataset is available at: https://www.kaggle.com/datasets/masiaslahi/rgbnir-aerial-crop-dataset
